@@ -1,5 +1,6 @@
 # valentines
 a fun little valentine's day thing!
+(inspired by tiktok)
 
 * using codesandbox to share project through link
-* using this to start learning typescript!
+* will use this to start learning typescript! (currently in javascript)
